@@ -1,0 +1,161 @@
+,name,rank,country,male_female_ratio
+0,Stellenbosch University,301–350,South Africa,55 : 45
+1,Beijing Foreign Studies University,101,China,21 : 79
+2,Beijing Normal University,401–500,Hong Kong,62 : 38
+3,Dalian University of Foreign Languages,159,Hong Kong,52 : 48
+4,Guangdong University of Foreign Studies,=110,Hong Kong,57 : 43
+5,Zhejiang University,1001+,India,43 : 57
+6,Hong Kong Baptist University,1001+,Japan,27 : 73
+7,Hong Kong Polytechnic University,801–1000,Japan,37 : 63
+8,City University of Hong Kong,1001+,Japan,36 : 64
+9,Manipal Academy of Higher Education,801–1000,Japan,37 : 63
+10,National Institute of Fashion Technology,1001+,Japan,32 : 68
+11,BINUS University,801–1000,South Korea,39 : 61
+12,University of Surabaya,351–400,South Korea,n/a
+13,Meijo University,198,South Korea,n/a
+14,Kanda University of International Studies,601–800,Taiwan,39 : 61
+15,Kobe International University,801–1000,Taiwan,58 : 42
+16,Kumamoto University,801–1000,Taiwan,57 : 43
+17,Ritsumeikan University,1001+,Taiwan,48 : 52
+18,Nagasaki University,801–1000,Thailand,59 : 41
+19,Mukogawa Women's University,601–800,Thailand,64 : 36
+20,Kansai Gaidai University,1001+,Thailand,63 : 37
+21,International Christian University,=143,Austria,66 : 34
+22,Meiji University,251–300,Austria,29 : 71
+23,University of Tokyo,801–1000,Czech Republic,31 : 69
+24,Taylor's University,=123,Denmark,54 : 46
+25,Sunway University,=116,Denmark,55 : 45
+26,Temasek Polytechnic,=163,Denmark,30 : 70
+27,Nanyang Technological University,251–300,Denmark,53 : 47
+28,Pukyong National University,=116,United Kingdom,56 : 44
+29,Dong-A University,351–400,United Kingdom,49 : 51
+30,KAIST,78,United Kingdom,53 : 47
+31,Inha University,251–300,United Kingdom,55 : 45
+32,Hanyang University,141,United Kingdom,54 : 46
+33,Korea University,501–600,United Kingdom,53 : 47
+34,Ewha Women's University,=146,United Kingdom,51 : 49
+35,National Sun Yat-Sen University,=153,United Kingdom,60 : 40
+36,Central Taiwan University of Science and Technology,801–1000,United Kingdom,50 : 50
+37,National Cheng Kung University,501–600,United Kingdom,59 : 41
+38,Fu Jen Catholic University,801–1000,United Kingdom,55 : 45
+39,National Chengchi University,=181,United Kingdom,55 : 45
+40,Tamkang University,601–800,United Kingdom,58 : 42
+41,Chulalongkorn University,=181,Finland,35 : 65
+42,Mahidol University,351–400,Finland,63 : 37
+43,Thammasat University,351–400,France,n/a
+44,RMIT Vietnam,401–500,France,22 : 78
+45,University of Natural Resources and Life Sciences (BOKU),131,Germany,34 : 66
+46,University of Vienna,201–250,Germany,57 : 43
+47,Vienna University of Economics and Business,251–300,Germany,30 : 70
+48,Vienna University of Technology,=135,Germany,28 : 72
+49,Czech Technical University in Prague,=44,Germany,34 : 66
+50,Aarhus University,251–300,Germany,32 : 68
+51,Danish School of Media and Communication,251–300,Iceland,66 : 34
+52,University of Copenhagen,301–350,Iceland,42 : 58
+53,Technical University of Denmark,251–300,Italy,51 : 49
+54,University of Southern Denmark,58,Netherlands,28 : 72
+55,IT University of Copenhagen,=167,Netherlands,25 : 75
+56,University of Birmingham,351–400,Norway,49 : 51
+57,Aston University,601–800,United Kingdom,56 : 44
+58,University of Bristol,=93,United Kingdom,58 : 42
+59,University of Essex,401–500,United Kingdom,50 : 50
+60,University of Exeter,201–250,Sweden,32 : 68
+61,University of Hull,201–250,Sweden,n/a
+62,Lancaster University,=187,United Kingdom,58 : 42
+63,University of Leeds,251–300,United Kingdom,45 : 55
+64,Leeds Beckett University,=199,Canada,n/a
+65,Regent's University London,251–300,Canada,55 : 45
+66,Oxford Brookes University,251–300,Canada,55 : 45
+67,Sheffield Hallam University,=176,Canada,59 : 41
+68,University of Liverpool,201–250,Canada,46 : 54
+69,Manchester Metropolitan University,=90,Canada,59 : 41
+70,Aalto University,501–600,Canada,59 : 41
+71,University of Eastern Finland,21,Canada,n/a
+72,IMT Atlantique,=123,United States,43 : 57
+73,Grenoble Institute of Technology,=184,United States,49 : 51
+74,Universite Catholique de Lilie,401–500,United States,55 : 45
+75,CentraleSupélec,=156,United States,54 : 46
+76,Universite Paris Dauphine,601–800,United States,53 : 47
+77,L'Ecole Nationale de l'Aviation Civile (ENAC),,,
+78,National Polytechnic Institute of Toulouse,,,
+79,Rheinisch Westfalische Technische Hochschule Aachen (RWTH),,,
+80,HTW Berlin,,,
+81,Technical University of Berlin,,,
+82,Bielefeld University,,,
+83,Technical University of Darmstadt,,,
+84,Karlsruhe Institute of Technology,,,
+85,Karlsruhe University of Applied Sciences (HsKA),,,
+86,University of Muenster,,,
+87,Ludwig Maximilians University,,,
+88,Technical University of Munich,,,
+89,University of Stuttgart,,,
+90,Eberhard Karls Universitat Tubingen,,,
+91,Hessen Universities,,,
+92,Corvinus University Budapest,,,
+93,University of Iceland,,,
+94,Reykjavík University,,,
+95,Politecnico di Milano,,,
+96,University Commerciale Luigi Bocconi,,,
+97,University of Trento,,,
+98,Politecnico di Torino,,,
+99,LUISS (Libera Università Internazionale degli Studi Sociali Guido Carli),,,
+100,University of Liechtenstein,,,
+101,Delft University of Technology,,,
+102,Eindhoven University of Technology,,,
+103,Radboud University,,,
+104,University of Agder,,,
+105,Western Norway University of Applied Sciences,,,
+106,Ostfold University College,,,
+107,Oslo Metropolitan University ,,,
+108,University of Stavanger,,,
+109,Norwegian University of Science and Technology,,,
+110,Kozminski University,,,
+111,Wroclaw University of Technology,,,
+112,<u>University of Minho</u>,,,
+113,Edinburgh Napier University,,,
+114,University of Glasgow,,,
+115,University of Strathclyde,,,
+116,University of A Coruna,,,
+117,University Carlos III de Madrid,,,
+118,University of Navarra ,,,
+119,University of Boras,,,
+120,Chalmers University of Technology,,,
+121,University of Gothenburg,,,
+122,Linkoping University,,,
+123,Malmo University,,,
+124,Karolinska Institutet,,,
+125,KTH - Royal Institute of Technology,,,
+126,Cardiff University,,,
+127,Swansea University,,,
+128,Pontificial Catholic University of Minas Gerais,,,
+129,University of Sao Paulo,,,
+130,Universidade Federal de Santa Catarina (UFSC),,,
+131,Universidad Adolfo Ibanez,,,
+132,Pontificia Universidad Catolica de Chile,,,
+133,Universidad de los Andes,,,
+134,Universidad del Rosario,,,
+135,Universidad EAFIT,,,
+136,University of Calgary,,,
+137,Simon Fraser University,,,
+138,Dalhousie University,,,
+139,University of Ottawa,,,
+140,Ryerson University,,,
+141,University of Waterloo,,,
+142,Ecole Polytechnique Montreal,,,
+143,HEC Montreal,,,
+144,University of Montreal,,,
+145,Bishop's University,,,
+146,University of Guelph,,,
+147,University of Toronto,,,
+148,Tecnologico de Monterrey,,,
+149,Universidad de las Americas,,,
+150,Arizona State University,,,
+151,Northeastern University,,,
+152,University of Alabama,,,
+153,San Jose State University,,,
+154,Illinois Institute of Technology,,,
+155,University of Florida,,,
+156,California State University,,,
+157,New Mexico State University,,,
+158,Johnson and Wales University,,,
+159,University of Minnesota,,,
